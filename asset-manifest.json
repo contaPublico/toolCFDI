@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/toolCFDI/static/css/main.13c2cdce.css",
-    "main.js": "/toolCFDI/static/js/main.3d602f7e.js",
+    "main.css": "/toolCFDI/static/css/main.efa32e26.css",
+    "main.js": "/toolCFDI/static/js/main.5b5df642.js",
     "static/js/453.19efa2dd.chunk.js": "/toolCFDI/static/js/453.19efa2dd.chunk.js",
     "static/media/logo.png": "/toolCFDI/static/media/logo.eb4e99141b2e7009bf58.png",
     "index.html": "/toolCFDI/index.html",
-    "main.13c2cdce.css.map": "/toolCFDI/static/css/main.13c2cdce.css.map",
-    "main.3d602f7e.js.map": "/toolCFDI/static/js/main.3d602f7e.js.map",
+    "main.efa32e26.css.map": "/toolCFDI/static/css/main.efa32e26.css.map",
+    "main.5b5df642.js.map": "/toolCFDI/static/js/main.5b5df642.js.map",
     "453.19efa2dd.chunk.js.map": "/toolCFDI/static/js/453.19efa2dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13c2cdce.css",
-    "static/js/main.3d602f7e.js"
+    "static/css/main.efa32e26.css",
+    "static/js/main.5b5df642.js"
   ]
 }
