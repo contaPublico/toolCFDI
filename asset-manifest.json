@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/toolCFDI/static/css/main.efa32e26.css",
-    "main.js": "/toolCFDI/static/js/main.08f31582.js",
+    "main.js": "/toolCFDI/static/js/main.4f1f0469.js",
     "static/js/453.19efa2dd.chunk.js": "/toolCFDI/static/js/453.19efa2dd.chunk.js",
     "static/media/logo.png": "/toolCFDI/static/media/logo.eb4e99141b2e7009bf58.png",
     "index.html": "/toolCFDI/index.html",
     "main.efa32e26.css.map": "/toolCFDI/static/css/main.efa32e26.css.map",
-    "main.08f31582.js.map": "/toolCFDI/static/js/main.08f31582.js.map",
+    "main.4f1f0469.js.map": "/toolCFDI/static/js/main.4f1f0469.js.map",
     "453.19efa2dd.chunk.js.map": "/toolCFDI/static/js/453.19efa2dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efa32e26.css",
-    "static/js/main.08f31582.js"
+    "static/js/main.4f1f0469.js"
   ]
 }
